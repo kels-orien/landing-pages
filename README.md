@@ -1,2 +1,2 @@
 # landing-pages
-A list of landing pages designs built with HTML , SASS and CSS
+A list of landing page designs built with HTML , SASS and CSS
